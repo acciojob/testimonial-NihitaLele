@@ -1,1 +1,25 @@
-/*  your css code here. If applicable */
+#main_c{
+   background-color:#f5f5f5;
+	padding:30px;
+}
+#heading{
+	padding:8px;
+	background-color:#f5f5f5;
+	border: none;
+}
+.t_body1{
+	border: 1px solid lightgray;
+	padding:8px;
+	background-color:white;
+	margin:10px;
+}
+.t_body2{
+	border: 1px solid lightgray;
+	padding:8px;
+	background-color:white;
+	margin:10px;
+}
+.author{
+	text-align:right;
+	font-style:italic;
+}
